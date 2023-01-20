@@ -1,4 +1,4 @@
-# SOLNE
+# SOLNEv1.1
 SOftware for Lazy Network Engineers
 
 This is a python program focused on facilitating repetetive tasks on major network deployments.
