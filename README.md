@@ -1,6 +1,8 @@
 # SOLNEv1.1
 SOftware for Lazy Network Engineers
 
+Requires Python and Netmiko installed.
+
 This is a python program focused on facilitating repetetive tasks on major network deployments.
 
 It currenlty ONLY performs backups on any Cisco IOS appliances. refer to the list of commands.
